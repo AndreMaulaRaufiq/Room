@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="simpan">Simpan</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="description_movie">Description Movie</string>
+    <string name="update">UPDATE</string>
+</resources>
